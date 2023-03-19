@@ -1,0 +1,26 @@
+.button{
+    margin-left: 7px;
+    margin-right: 7px;
+    border: none;
+    width: 120px;
+    color: white;
+    height: 35px;
+    font-weight: 900;
+    border-radius: 4px;
+    border: 1PX SOLID #e61818;
+    background-color: #d6681f;
+}
+.button:hover{
+    color: white;
+    border: 1PX SOLID #c70a0a;
+    background-color: #d6681f;
+}
+.navbar{
+    background: #6b6b69 ;
+}
+b{
+    margin-left: 15px;
+}
+.fas fa-film{
+    margin-top: 5px;
+}
